@@ -11,7 +11,7 @@ This project simulates a real-world IT help desk environment using osTicket, an 
 
 <h2>Environments Used </h2>
 
-- <b>XAMPP (Apache, MySQL, PHP)</b> (21H2)
+- <b>XAMPP (Apache, MySQL, PHP)</b>
 - <b> osTicket v1.18.2</b>
 - <b> Windows 10 Pro</b>
 <h2>Program walk-through:</h2>
